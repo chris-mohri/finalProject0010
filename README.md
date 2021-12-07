@@ -15,4 +15,4 @@ Neighborhood Size Data Set Link: https://data.wprdc.org/dataset/neighborhoods-wi
 
 # Abstract
 
-In this project, we determine which neighborhood in Pittsburgh is the best. We decided to label the best neighborhood as the one that provides the most ideal cycling conditions—safety, congestion, and scenery—by analyzing several data sets provided by wprdc.org. From our findings, _____ cont. later
+In this project, we determine which neighborhood in Pittsburgh is the best. We decided to label the best neighborhood as the one that provides the most ideal cycling conditions—safety, enjoyability, and scenery—by analyzing several data sets provided by wprdc.org. To evaluate the final scoring for each neighborhood in each of the three metrics. From our findings, South Side Flats
