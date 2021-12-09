@@ -5,6 +5,8 @@ Christopher Mohri, cim18@pitt.edu
 
 Neil Pandey, nep50@pitt.edu
 
+Branden Lientz, bcl39@pitt.edu
+
 # Data Set Links
 Public Art Data Set Link: https://data.wprdc.org/dataset/city-of-pittsburgh-public-art: Provided information on each public art piece in Pittsburgh.
 
